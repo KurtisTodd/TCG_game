@@ -1,4 +1,4 @@
-# TCG_game_choose_your_card_name
+# TCG_game
 A python 2-player TCG game just for experimentation, learning, and fun.
 
 There are 3 types of cards.
