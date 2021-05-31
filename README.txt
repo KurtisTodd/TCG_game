@@ -66,18 +66,63 @@ ELEMENTAL LOOP =    fire < water < earth < fire < water < earth < fire < water <
                                            Heal                   x1
                                            Play a Special Card    x2
                                            Play an Energy Card    x1
+                                           skip turn
                                      or    Attack                 x1        
-      
-- You may choose these options in any order you wish with but one stipulation. When and if you attack, (not including playing an 'attack' card)
+
+- You may choose these options in any order you wish with but one stipulation. When and if you attack, (not including playing a 'special' attack card)
   you are forfeiting the rest of your turn.
   
+    
+    
+***RETREAT***
+- You may retreat once per turn and choose another monster to out into play.
+
+***PLAY AN ENERGY CARD***
+- Once per turn, you may play an energy card. EAch player has an energy "bank" or "reserve". When you play an energy card, the amount of energy
+  shown on the card will be added to the corresponding energy type in your bank.
+                                            - For example = If you play a "2 fire energy" card, 2 units of fire energy will be added to your 'fire'
+                                               energy "bank" or "reserve." You can keep an infinite number of energy in your bank. Each time you
+                                               attack or heal, it will require energy from your bank to perform these actions and will deplete the
+                                               cost amount from your bank. 
+                                            - There are 3 types of energy ('water', 'fire', and 'earth') and an "any" energy type. The 'any'
+                                              energy type will work as a "reserve" energy type. It is only used if you do not have enough elemental 
+                                              energy to perfrom a given action.
+                                            - example-  If you have a monster that is a fire type, and you are attacking your opponent with an attack
+                                              cost of 3 energy..... lets say you have only 1 'fire' energy and 3 'any' energies in your bank. The 
+                                              attack will deplete the 1 'fire' energy and then deplete 2 'any' energies in order to perform the 
+                                              attack.
+
+***HEAL***
+- You can heal a monster once per turn. If you choose to heal, it will add the amount of heal to your monsters HP and deplete the corresponding          energy from your bank.
+
+***PLAY SPECIAL CARD***
+- You can play two special cards per turn. When you play the "Special"card it will perform the action stated on the card.
+
+***ATTACK***    
+- Attacks opponents monster in play with the 'attack' amount. Depletes 'attack cost' of energy from opponents 'in play' monster HP. 
 - Pay attention to the monster types you have in play. If your monster has an elemental advantage over the other monster, add 15 attack points when     attacking.
+- If there is an unforeseen event occurring, and your monster shares the same elemental type of the event (and your opponents monster does not),
+  Also add the event amount to the attack in progress.
+  
+  
+  
+ *** HOW TO WIN***
+ - 3 ways to win the game.
+ 
+                       - Achieve the predetermined number of knockouts before your opponent
+                       
+                       - Opponent runs out of cards to draw into their hand
+                       
+                       - KNockout the opponents monster card and they have no monster cards in their hand to put into play.
+                       
+                       
+                       
+                       
+                       
+                       
                                                                              
                                                                             
                                      
                                                                            
                                                                                
 
-- If you attack, your turn is over.
-- If you play an energy card, the amount of that energy card is added to energy in play. You can have an infinite amount of energy in play, but every     time you attack or heal it costs energy, and will deplete the corresponding "cost amount".
-- 
