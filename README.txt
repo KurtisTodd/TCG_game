@@ -113,7 +113,7 @@ ELEMENTAL LOOP =    fire < water < earth < fire < water < earth < fire < water <
                        
                        - Opponent runs out of cards to draw into their hand
                        
-                       - KNockout the opponents monster card and they have no monster cards in their hand to put into play.
+                       - Knockout the opponents monster card and they have no monster cards in their hand to put into play.
                        
                        
                        
